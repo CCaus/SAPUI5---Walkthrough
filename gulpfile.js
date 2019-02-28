@@ -1,5 +1,7 @@
 function defaultTask(cb) {
-  // place code for your default task here
+//  const oGulp = require("gulp");
+//  const oUi5Toolkit = require(ui5-toolkit-gulp");
+//  oUi5Toolkit({ gulp: oGulp });
   cb();
 }
 

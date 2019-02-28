@@ -10,5 +10,8 @@
   "license": "ISC",
   "devDependencies": {
     "gulp": "^4.0.0"
+  },
+  "dependencies": {
+    "eslint-config-ui5": "file:node_modules/eslint-config-ui5"
   }
 }
