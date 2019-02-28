@@ -1,0 +1,14 @@
+{
+  "name": "ui5_demo",
+  "version": "0.0.1",
+  "description": "ui5 Demo test",
+  "main": "Workspace/webapp/index.js",
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "author": "Clauder Caus",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.0"
+  }
+}
